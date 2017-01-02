@@ -1,0 +1,4 @@
+s = 'abe'
+
+s.upper
+
