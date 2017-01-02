@@ -108,8 +108,8 @@
       <file leaf-file-name="BisectionString.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/BisectionString.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="4" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+            <state relative-caret-position="255">
+              <caret line="17" column="32" lean-forward="true" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
               <folding />
             </state>
           </provider>
@@ -186,24 +186,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.RecPalindrome">
-    <configuration default="false" name="tower_of_honai" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="algorithm" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tower_of_honai.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.BisectionString">
     <configuration default="false" name="gcd" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -268,6 +251,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="algorithm" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RecPalindrome.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="BisectionString" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="algorithm" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BisectionString.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -407,19 +407,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.tower_of_honai" />
-      <item index="1" class="java.lang.String" itemvalue="Python.gcd" />
-      <item index="2" class="java.lang.String" itemvalue="Python.recursive_gcd" />
-      <item index="3" class="java.lang.String" itemvalue="Python.fibonacci" />
-      <item index="4" class="java.lang.String" itemvalue="Python.RecPalindrome" />
+      <item index="0" class="java.lang.String" itemvalue="Python.gcd" />
+      <item index="1" class="java.lang.String" itemvalue="Python.recursive_gcd" />
+      <item index="2" class="java.lang.String" itemvalue="Python.fibonacci" />
+      <item index="3" class="java.lang.String" itemvalue="Python.RecPalindrome" />
+      <item index="4" class="java.lang.String" itemvalue="Python.BisectionString" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.RecPalindrome" />
-        <item index="1" class="java.lang.String" itemvalue="Python.fibonacci" />
-        <item index="2" class="java.lang.String" itemvalue="Python.recursive_gcd" />
-        <item index="3" class="java.lang.String" itemvalue="Python.gcd" />
-        <item index="4" class="java.lang.String" itemvalue="Python.tower_of_honai" />
+        <item index="0" class="java.lang.String" itemvalue="Python.BisectionString" />
+        <item index="1" class="java.lang.String" itemvalue="Python.RecPalindrome" />
+        <item index="2" class="java.lang.String" itemvalue="Python.fibonacci" />
+        <item index="3" class="java.lang.String" itemvalue="Python.recursive_gcd" />
+        <item index="4" class="java.lang.String" itemvalue="Python.gcd" />
       </list>
     </recent_temporary>
   </component>
@@ -557,8 +557,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/BisectionString.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="4" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+        <state relative-caret-position="255">
+          <caret line="17" column="32" lean-forward="true" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
           <folding />
         </state>
       </provider>
