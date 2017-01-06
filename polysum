@@ -1,0 +1,11 @@
+import math
+
+def polysum(n, s):
+    area = 0
+    perimeter = 0
+    area = (0.25 * n * (s ** 2))/(math.tan(math.pi/n))
+    perimeter = (n * s) ** 2
+    res = perimeter + area
+    return round(res,4)
+
+print(polysum(95, 60))
