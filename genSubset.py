@@ -12,4 +12,4 @@ def genSubSet(L):
         new.append(small + extra)
     return smaller + new
 
-print(L[-1:])
+print(genSubSet(l))
